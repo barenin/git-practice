@@ -1,1 +1,2 @@
-hello. I was written by dev branch. helloS
+hello. I was written by dev branch. helloS.
+text for rebase
